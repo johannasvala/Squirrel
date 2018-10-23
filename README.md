@@ -1,1 +1,1 @@
-# Squirrel
+# skilaverkefni-js-johanna
